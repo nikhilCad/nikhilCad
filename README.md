@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a day when the onopol of Google will be brutually broken down down to pieces.
+### Have a nice day 😄
 <!--
 **nikhilCad/nikhilCad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
