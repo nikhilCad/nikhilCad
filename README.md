@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a day when the monopoly of Google will be brutally broken down to pieces.
 ### Have a nice day 😄
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nikhilCad/nikhilCad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
