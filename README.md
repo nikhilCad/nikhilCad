@@ -4,6 +4,8 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcad&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nikhilCad/nikhilCad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
