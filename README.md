@@ -2,6 +2,17 @@
 I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a day when the monopoly of Google will be brutally broken down to pieces.
 ### Have a nice day 😄
 
+### Stuff I know
+- Python
+- C
+- C++
+- HTML
+- CSS
+- Javscript
+- Version Control using Git
+- Godot Game Engine
+- Flutter
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham)
 
