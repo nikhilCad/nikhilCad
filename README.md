@@ -13,7 +13,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 - Godot Game Engine
 - Flutter
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcad" alt="nikhilcad" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcad" alt="nikhilcad" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham)
 
