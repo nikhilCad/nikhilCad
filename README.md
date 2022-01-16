@@ -16,15 +16,15 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <p>
 <!--    https://github.com/alexandresanlim/Badges4-README.md-Profile   -->
 <img alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
-<img height="64" width="64" alt=c src='https'>
-<img height="64" width="64" alt=cplusplus src='https'>
-<img height="64" width="64" alt=html src='https'>
-<img height="64" width="64" alt=css src='https'>
-<img height="64" width="64" alt=javascript src='https'>
-<img height="64" width="64" alt=git src='https'>
-<img height="64" width="64" alt=godot src='https'>
-<img height="64" width="64" alt=flutter src='https'>
-<img height="64" width="64" alt=mysql src='https'>
+<img alt=c src='https'>
+<img alt=cplusplus src='https'>
+<img alt=html src='https'>
+<img alt=css src='https'>
+<img halt=javascript src='https'>
+<img alt=git src='https'>
+<img alt=godot src='https'>
+<img alt=flutter src='https'>
+<img alt=mysql src='https'>
 </p>
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
