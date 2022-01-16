@@ -15,7 +15,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 - MySQL
 <p>
 <!--    https://github.com/alexandresanlim/Badges4-README.md-Profile   -->
-<img height="64" width="64" alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
+<img alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
 <img height="64" width="64" alt=c src='https'>
 <img height="64" width="64" alt=cplusplus src='https'>
 <img height="64" width="64" alt=html src='https'>
