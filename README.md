@@ -14,7 +14,9 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 - Flutter
 - MySQL
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img height="32" width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+
+<!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
@@ -25,7 +27,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/godotengine.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
-
+-->
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcad" alt="nikhilcad" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham)
