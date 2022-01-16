@@ -14,9 +14,17 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 - Flutter
 - MySQL
 <p>
-<img height="64" width="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
-
-<img height="64" width="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-godot-plain.svg'>
+<!--    https://github.com/alexandresanlim/Badges4-README.md-Profile   -->
+<img height="64" width="64" alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
+<img height="64" width="64" alt=c src='https'>
+<img height="64" width="64" alt=cplusplus src='https'>
+<img height="64" width="64" alt=html src='https'>
+<img height="64" width="64" alt=css src='https'>
+<img height="64" width="64" alt=javascript src='https'>
+<img height="64" width="64" alt=git src='https'>
+<img height="64" width="64" alt=godot src='https'>
+<img height="64" width="64" alt=flutter src='https'>
+<img height="64" width="64" alt=mysql src='https'>
 </p>
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
