@@ -17,8 +17,8 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/godotengine.svg" />
