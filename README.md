@@ -3,28 +3,20 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 ### Have a nice day 😄
 
 ### Stuff I know
-- Python
-- C
-- C++
-- HTML
-- CSS
-- Javscript
-- Version Control using Git
-- Godot Game Engine
-- Flutter
-- MySQL
+
 <p>
 <!--    https://github.com/alexandresanlim/Badges4-README.md-Profile   -->
 <img alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
-<img alt=c src='https'>
-<img alt=cplusplus src='https'>
-<img alt=html src='https'>
-<img alt=css src='https'>
-<img halt=javascript src='https'>
-<img alt=git src='https'>
-<img alt=godot src='https'>
-<img alt=flutter src='https'>
-<img alt=mysql src='https'>
+<img alt=c src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
+<img alt=cplusplus src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+<img alt=html src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+<img alt=css src='	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img halt=javascript src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+<img alt=git src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+<img alt=godot src='https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white'>
+<img alt=flutter src='	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
+<img alt=dart src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
+<img alt=mysql src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
 </p>
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
