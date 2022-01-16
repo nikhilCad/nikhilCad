@@ -1,3 +1,4 @@
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
 ### Hi there 👋
 I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a day when the monopoly of Google will be brutally broken down to pieces.
 ### Have a nice day 😄
