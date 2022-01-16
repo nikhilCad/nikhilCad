@@ -14,9 +14,9 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 - Flutter
 - MySQL
 <p>
-<img height="32" width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img height="64" width="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
-<img height="32" width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-godot-plain.svg'>
+<img height="64" width="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-godot-plain.svg'>
 </p>
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
