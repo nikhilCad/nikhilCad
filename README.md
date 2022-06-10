@@ -18,6 +18,8 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <img alt=flutter src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 <img alt=dart src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
 <img alt=mysql src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
+<img alt=react src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img alt=nodejs src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 </p>
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
