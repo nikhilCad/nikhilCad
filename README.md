@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a day when the monopoly of Google will be brutally broken down to pieces.
+I am Nikhil Kadiyan and I am posting my random projects on this Github account. I am a huge advocator of FOSS (Free and Open Source Software) and I dream of a decentralised internet.
 ### Have a nice day 😄
 
 ### Stuff I know
