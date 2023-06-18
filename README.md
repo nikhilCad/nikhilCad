@@ -35,7 +35,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 -->
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcad" alt="nikhilcad" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham)
+![Nikhil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilcad&show_icons=true&theme=gotham&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcad&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
