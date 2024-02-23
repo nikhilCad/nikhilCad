@@ -7,7 +7,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <p>
 <!--    https://github.com/alexandresanlim/Badges4-README.md-Profile   -->
 <img alt=python src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen'>
-<img alt=c src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
+<img alt=java src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
 <img alt=cplusplus src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
 <img alt=html src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img alt=css src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
@@ -17,6 +17,7 @@ I am Nikhil Kadiyan and I am posting my random projects on this Github account. 
 <img alt=godot src='https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white'>
 <img alt=mysql src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
 <img alt=postgresql src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
+<img alt=spring src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white'>
 <img alt=supabase src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white'>
 <img alt=react src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img alt=next src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
